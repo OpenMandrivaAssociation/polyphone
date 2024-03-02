@@ -27,6 +27,7 @@ BuildRequires: cmake(Qt5Network)
 BuildRequires: cmake(Qt5PrintSupport)
 BuildRequires: cmake(Qt5Widgets)
 BuildRequires: cmake(Qt5Svg)
+BuildRequires: qt5-linguist-tools
 
 %description
 The Polyphone soundfont editor
