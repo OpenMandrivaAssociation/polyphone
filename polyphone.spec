@@ -11,6 +11,7 @@ License: GPL-3.0
 Group: Publishing
 BuildRequires: pkgconfig(rtmidi)
 BuildRequires: pkgconfig(libcrypto)
+BuildRequires: pkgconfig(portaudio-2.0)
 BuildRequires: qmake5
 BuildRequires: cmake(Qt5Core)
 BuildRequires: cmake(Qt5Concurrent)
