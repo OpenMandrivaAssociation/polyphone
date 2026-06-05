@@ -3,7 +3,7 @@
 
 Name: polyphone
 Version: 2.3.1
-Release: 2
+Release: 3
 Source0: polyphone-2.3.1.zip
 Summary: The Polyphone soundfont editor
 URL: https://www.polyphone-soundfonts.com/
